@@ -7,3 +7,4 @@ The curses library supplies a terminal-independent screen-painting and keyboard-
 
 We can download curses for window by running command : ''' pip install windows-curses '''
 
+![image](https://user-images.githubusercontent.com/68737300/113128434-6c22ab00-9237-11eb-9d51-1aa3a742b321.png)
